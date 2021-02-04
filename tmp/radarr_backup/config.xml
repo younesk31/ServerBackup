@@ -1,0 +1,17 @@
+<Config>
+  <Port>29618</Port>
+  <UrlBase></UrlBase>
+  <BindAddress>*</BindAddress>
+  <SslPort>9898</SslPort>
+  <EnableSsl>False</EnableSsl>
+  <ApiKey>d3cc172f7449439f95d987a85896c892</ApiKey>
+  <AuthenticationMethod>Basic</AuthenticationMethod>
+  <LogLevel>Info</LogLevel>
+  <Branch>develop</Branch>
+  <LaunchBrowser>False</LaunchBrowser>
+  <UpdateMechanism>BuiltIn</UpdateMechanism>
+  <AnalyticsEnabled>False</AnalyticsEnabled>
+  <UpdateAutomatically>False</UpdateAutomatically>
+  <SslCertPath></SslCertPath>
+  <SslCertPassword></SslCertPassword>
+</Config>
